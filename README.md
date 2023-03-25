@@ -2,7 +2,7 @@
 
 ## `npm start`
 
-Runs the app. Open this link in browser to see the interface of application [http://localhost:3000/]: http://localhost:3000/.
+Runs the app. Open this link in browser to see the interface of application http://localhost:3000/.
 
 ## `node server.js`
 
